@@ -1,0 +1,7 @@
+platform :ios, '11.3'
+
+target 'MovieNetworking' do
+  use_frameworks!
+  # Pods for MovieNetworking
+    pod 'Kingfisher', '~>4.7.0'
+end

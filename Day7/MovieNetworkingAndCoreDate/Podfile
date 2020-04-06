@@ -1,0 +1,9 @@
+platform :ios, '11.3'
+
+target 'MovieNetworkingAndCoreDate' do
+  use_frameworks!
+
+  # Pods for MovieNetworkingAndCoreDate
+    pod 'Kingfisher', '~>4.7.0'
+
+end

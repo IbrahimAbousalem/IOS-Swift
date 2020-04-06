@@ -1,0 +1,7 @@
+platform :ios, '11.3'
+
+target 'CustomCellApp' do
+  use_frameworks!
+  # Pods for CustomCellApp
+    pod 'Kingfisher', '~> 4.7.0'
+end
